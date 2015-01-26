@@ -1,0 +1,60 @@
+passage libre : 1
+	1 : herbe
+	2 : pont
+	3 : route
+        4 : parquet
+
+passage bloqué : 2
+	1 : bloc exterieur (carte principale)
+	2 : eau haut
+	3 : eau haut droite
+	4 : eau bas
+	5 : eau bas gauche
+	6 : eau haut bas
+	7 : souterrain exterieur
+        8 : bloc exterieur (magasin + taverne)
+        9 : déco 1 (magasin)
+
+passage bloqué avec évenement : 3
+	1 : fontaine gauche
+	2 : fontaine droite
+	3 : Petite Potion
+	4 : Potion Moyenne
+	5 : Grande Potion
+	6 : Potion Max
+	7 : Potion de téléportation
+	8 : Arme 1
+	9 : Arme 2
+	10 : Arme 3
+	11 : Arme 4
+	12 : Arme 5
+	13 : Armure 1
+	14 : Armure 2
+	15 : Armure 3
+	16 : Armure 4
+	17 : Armure 5
+        18 : comptoir
+        19 : coffre haut
+	20 : coffre bas
+	21 : coffre gauche
+	22 : coffre droite
+
+case évennement : 4
+	1 : Monstres 1 et 2
+	2 : Monstres 2 et 3
+	3 : Monstres 3 et 4
+	4 : Monstres 4 et 5
+	5 : case boss
+	6 : temple de compétences
+	7 : banque
+	8 : magasin de magie
+	9 : magasin général
+	10 : taverne
+	11 : magasin pour archers
+	12 : magasin d'armes uniques
+        13 : sortie
+
+personnage : 5
+	1 : Vendeur 1 (magasin)
+        2 : Acheteur 1 (magasin)
+        3 : Acheteur 2 (magasin)

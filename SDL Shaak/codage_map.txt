@@ -1,0 +1,92 @@
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+
+idTile idDéco(or idPerso) isBlock idEvent, [...] \n (end of map)
+
+Légende :
+	E => Event
+	C => Combat
+	B => Bâtiment
+	persos :
+		id : haut:bas:gauche:droite	raison de vivre
+
+base :
+	1  : herbe
+	2  : forêt
+	3  : E C Case 1
+	4  : E C Case 2
+	5  : E C Case 3
+	6  : E C Case 4
+	7  : E C Case Boss
+	8  : eau
+	9  : route
+	10 : bloc extérieur (temple)
+	11 : bloc extérieur (potions)
+	12 : comptoir
+	13 : bloc extérieur (taverne)
+	14 : parquet
+	15 : table (taverne)
+	16 : bloc extérieur (armurier)
+	17 : sol en pierre
+
+Décoration :
+	1  : E B Temple
+	2  : arbres
+	3  : E B Potions
+	4  : E B Taverne
+	5  : E B Armurier
+	6  : pont
+	7  : fontaine
+	8  : autel
+	9  : escaliers
+	10 : grande lampe (temple)
+	11 : vase (temple)
+	12 : chaudron du sacrifice
+	13 : tapis
+	14 : sortie
+	15 : coffre
+	16 : paillasse d'alchimiste
+	17 : étagère de potions
+	18 : bouteille de bière
+	19 : chope de bière
+	20 : verre d'alcool
+	21 : décoration d'armurier 1
+	22 : décoration d'armurier 2
+	23 : atelier de forgeron
+
+Personnages :
+	-1  : 0:0:0:1	Parle des grandes lampes qui ne s'éteignent jamais.
+	-2  : 2:4:4:1	Explique comment faire les sacrifices sur l'autel.
+	-3  : 0:7:1:1	Parle des coffres qui sont scellés depuis toujours et
+					d'en ouvrir un.
+	-4  : 0:1:0:0	Vends des potions.
+	-5  : 1:1:1:1	dit "Tant de potions !!! Je ne sais pas laquelle choisir !"
+	-6  : 0:0:1:0	Alchimiste.
+	-7  : 0:0:4:1	Cherche une somnifère pour endormir les parents de sa copine
+					pour leur première fois.
+	-8  : 0:1:0:0	Se fait viser par son ami et dit "Vas y envoies les bières !
+					tu vises bien hein ?"
+	-9  : 5:0:0:1	Lance des bières sur son ami et dit "J'essaye de faire
+					tomber la bière qu'il a sur sa tête avec mes bières. C'est
+					vraiment super marrant !"
+	-10 : 0:1:0:1	Serveur de la taverne
+	-11 : 1:0:0:0	Homme qui vante les mérites des boissons du bar
+	-12 : 1:0:0:0	Vielle femme qui pleure son fils parti affronter le boss
+	-13 : 0:1:0:0	Vends des armures
+	-14 : 0:1:0:0	Forgeron
+	-15 : 0:1:0:0	Vends des armes

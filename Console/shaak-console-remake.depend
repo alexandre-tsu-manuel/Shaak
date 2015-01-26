@@ -1,0 +1,252 @@
+# depslib dependency file v1.0
+1327537967 source:c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327647093 source:c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327686009 c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\constantes.h
+
+1327686009 c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\jouer.h
+
+1327537863 c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\autre.h
+
+1327537976 source:c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+
+1327279756 source:c:\users\prjdelphi\desktop\prog.c\shaak-console-remake\ressource.rc
+
+1330692335 source:c:\users\camille\desktop\package\local-projects\shaak-console-remake\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1330692335 c:\users\camille\desktop\package\local-projects\shaak-console-remake\constantes.h
+
+1327686008 c:\users\camille\desktop\package\local-projects\shaak-console-remake\jouer.h
+
+1330691593 c:\users\camille\desktop\package\local-projects\shaak-console-remake\autre.h
+
+1330692335 source:c:\users\camille\desktop\package\local-projects\shaak-console-remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327279756 source:c:\users\camille\desktop\package\local-projects\shaak-console-remake\ressource.rc
+
+1330692011 source:c:\users\camille\desktop\package\local-projects\shaak-console-remake\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+
+1327279756 source:c:\users\tsunami33\desktop\shaak_code\ressource.rc
+
+1341139306 source:c:\users\tsunami33\desktop\shaak_code\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1330692336 c:\users\tsunami33\desktop\shaak_code\constantes.h
+
+1327686008 c:\users\tsunami33\desktop\shaak_code\jouer.h
+
+1340989100 c:\users\tsunami33\desktop\shaak_code\autre.h
+	"constantes.h"
+	<windows.h>
+
+1341248521 source:c:\users\tsunami33\desktop\shaak_code\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1341248521 source:c:\users\tsunami33\desktop\shaak_code\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<ctype.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+
+1341248971 source:c:\users\tsunami33\desktop\prog.c\shaak\shaak\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1330692336 c:\users\tsunami33\desktop\prog.c\shaak\shaak\constantes.h
+
+1327686008 c:\users\tsunami33\desktop\prog.c\shaak\shaak\jouer.h
+
+1340989100 c:\users\tsunami33\desktop\prog.c\shaak\shaak\autre.h
+	"constantes.h"
+	<windows.h>
+
+1344324944 source:c:\users\tsunami33\desktop\prog.c\shaak\shaak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327279756 source:c:\users\tsunami33\desktop\prog.c\shaak\shaak\ressource.rc
+
+1341248521 source:c:\users\tsunami33\desktop\prog.c\shaak\shaak\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<ctype.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+
+1375371993 source:c:\users\msi\desktop\prog.c\shaak\shaak color remake\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<ctype.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+	<conio.h>
+
+1375371497 c:\users\msi\desktop\prog.c\shaak\shaak color remake\autre.h
+	"constantes.h"
+	<windows.h>
+
+1375403610 c:\users\msi\desktop\prog.c\shaak\shaak color remake\constantes.h
+
+1375403610 source:c:\users\msi\desktop\prog.c\shaak\shaak color remake\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327686008 c:\users\msi\desktop\prog.c\shaak\shaak color remake\jouer.h
+
+1375403678 source:c:\users\msi\desktop\prog.c\shaak\shaak color remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327279756 source:c:\users\msi\desktop\prog.c\shaak\shaak color remake\ressource.rc
+
+1420732625 source:d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<ctype.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+	<conio.h>
+
+1375371497 d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\autre.h
+	"constantes.h"
+	<windows.h>
+
+1384291811 d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\constantes.h
+
+1375450700 source:d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327682408 d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\jouer.h
+
+1375403678 source:d:\windows 7\bureau\dev\local\prog.c\shaak\shaak color remake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+

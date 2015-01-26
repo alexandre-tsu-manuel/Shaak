@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="autre.c" open="1" top="0" tabpos="3">
+		<Cursor position="794" topLine="27" />
+	</File>
+	<File name="autre.h" open="1" top="0" tabpos="5">
+		<Cursor position="38" topLine="0" />
+	</File>
+	<File name="constantes.h" open="1" top="0" tabpos="2">
+		<Cursor position="481" topLine="0" />
+	</File>
+	<File name="jouer.c" open="1" top="0" tabpos="4">
+		<Cursor position="21926" topLine="583" />
+	</File>
+	<File name="jouer.h" open="1" top="1" tabpos="6">
+		<Cursor position="430" topLine="0" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="4148" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
