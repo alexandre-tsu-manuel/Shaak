@@ -250,3 +250,47 @@
 	"jouer.h"
 	"autre.h"
 
+1420732625 source:c:\users\alexandre\documents\github\shaak\console\autre.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<wchar.h>
+	<ctype.h>
+	<fmodex/fmod.h>
+	"autre.h"
+	"constantes.h"
+	<windows.h>
+	<conio.h>
+
+1375371497 c:\users\alexandre\documents\github\shaak\console\autre.h
+	"constantes.h"
+	<windows.h>
+
+1384291811 c:\users\alexandre\documents\github\shaak\console\constantes.h
+
+1375450700 source:c:\users\alexandre\documents\github\shaak\console\jouer.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<wchar.h>
+	<string.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1327682408 c:\users\alexandre\documents\github\shaak\console\jouer.h
+
+1375403678 source:c:\users\alexandre\documents\github\shaak\console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<wchar.h>
+	<fmodex/fmod.h>
+	"constantes.h"
+	"jouer.h"
+	"autre.h"
+
+1420732179 source:c:\users\alexandre\documents\github\shaak\console\ressource.rc
+
